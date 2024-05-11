@@ -55,6 +55,6 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 Contact
 -------
 
-If you have any questions or suggestions regarding this project, feel free to contact us at your-email@example.com.
+If you have any questions or suggestions regarding this project, feel free to contact us at minhajt.uae@gmail.com.
 
 Thank you for checking out our project! We hope you enjoy using it.

@@ -47,6 +47,13 @@ Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open a pull request.
 
+Screen Shots
+------------
+
+https://github.com/minhaaj-t/React-Assessment/assets/72432356/ab2d88fd-fcc3-4f52-af43-4c84a7bdda1b
+
+
+
 License
 -------
 

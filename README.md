@@ -58,6 +58,6 @@ https://github.com/minhaaj-t/React-Assessment/assets/72432356/a4db24a7-e5ec-42b4
 Contact
 -------
 
-If you have any questions or suggestions regarding this project, feel free to contact me at minhajt.uae@gmail.com or [minhajt.com .
+If you have any questions or suggestions regarding this project, feel free to contact me at minhajt.uae@gmail.com or [minhajt.com.
 ](https://www.minhajt.com/)
 Thank you for checking out my project! I hope you enjoy using it.

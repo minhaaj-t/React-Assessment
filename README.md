@@ -54,10 +54,6 @@ https://github.com/minhaaj-t/React-Assessment/assets/72432356/ab2d88fd-fcc3-4f52
 
 
 
-License
--------
-
-This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
 
 Contact
 -------

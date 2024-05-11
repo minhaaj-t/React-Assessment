@@ -21,6 +21,8 @@ Features
 -   Bootstrap Navbar: Navigate seamlessly through the application with my intuitive Bootstrap Navbar.
 -   React Slider Component: Experience dynamic content presentation with my interactive React Slider.
 -   Scroll-down React Card Component: Engage with captivating content using my scroll-down React Card Component.
+-   Sticky Banner: Advertising banners are shown when scrolling down at intervals of 5 cards.When it reaches the navbar, the top should remain top sticky.
+-  After 5th cards show text "Loading..." between the cards. Also introduced the infinity loading effect.
 
 Getting Started
 ---------------

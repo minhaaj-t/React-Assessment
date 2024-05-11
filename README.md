@@ -50,14 +50,14 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 Screen Shots
 ------------
 
-https://github.com/minhaaj-t/React-Assessment/assets/72432356/ab2d88fd-fcc3-4f52-af43-4c84a7bdda1b
 
+https://github.com/minhaaj-t/React-Assessment/assets/72432356/a4db24a7-e5ec-42b4-baaf-dff812e7c086
 
 
 
 Contact
 -------
 
-If you have any questions or suggestions regarding this project, feel free to contact me at minhajt.uae@gmail.com.
+If you have any questions or suggestions regarding this project, feel free to contact me at minhajt.uae@gmail.com or minhajt.com.
 
 Thank you for checking out my project! I hope you enjoy using it.

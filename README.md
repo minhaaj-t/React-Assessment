@@ -1,7 +1,7 @@
 React Express PostgreSQL One-Page Web Application
 =================================================
 
-Welcome to our one-page web application project, showcasing the integration of ReactJS for the frontend, ExpressJS for the backend, and PostgreSQL for the database. This project focuses on creating a single-page web application with the following components:
+Welcome to my one-page web application project, showcasing the integration of ReactJS for the frontend, ExpressJS for the backend, and PostgreSQL for the database. This project focuses on creating a single-page web application with the following components:
 
 -   Bootstrap Navbar for navigation
 -   React Slider component for interactive content
@@ -18,9 +18,9 @@ Technologies Used
 Features
 --------
 
--   Bootstrap Navbar: Navigate seamlessly through the application with our intuitive Bootstrap Navbar.
--   React Slider Component: Experience dynamic content presentation with our interactive React Slider.
--   Scroll-down React Card Component: Engage with captivating content using our scroll-down React Card Component.
+-   Bootstrap Navbar: Navigate seamlessly through the application with my intuitive Bootstrap Navbar.
+-   React Slider Component: Experience dynamic content presentation with my interactive React Slider.
+-   Scroll-down React Card Component: Engage with captivating content using my scroll-down React Card Component.
 
 Getting Started
 ---------------
@@ -55,6 +55,6 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 Contact
 -------
 
-If you have any questions or suggestions regarding this project, feel free to contact us at minhajt.uae@gmail.com.
+If you have any questions or suggestions regarding this project, feel free to contact me at minhajt.uae@gmail.com.
 
-Thank you for checking out our project! We hope you enjoy using it.
+Thank you for checking out my project! I hope you enjoy using it.

@@ -10,7 +10,7 @@ import TopNav from './TopNav';
 import './App.css';
 import Crossfade from './Crossfade';
 import CardView from './CardView';
-
+import ScrollButton from './ScrollButton';
 
 function App() {
 
@@ -19,8 +19,7 @@ function App() {
       <TopNav/>
       <Crossfade/>
       <CardView/>
-
-
+      <ScrollButton/>
     </div>
   );
 }

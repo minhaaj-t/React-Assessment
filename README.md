@@ -24,6 +24,11 @@ Features
 -   Sticky Banner: Advertising banners are shown when scrolling down at intervals of 5 cards.When it reaches the navbar, the top should remain top sticky.
 -  After 5th cards show text "Loading..." between the cards. Also introduced the infinity loading effect.
 
+Problem Solving
+--------
+
+-   Scroll bottom to top butten : It can make user friendly structure
+
 Getting Started
 ---------------
 
@@ -53,7 +58,7 @@ Screen Shots
 ------------
 
 
-https://github.com/minhaaj-t/React-Assessment/assets/72432356/a4db24a7-e5ec-42b4-baaf-dff812e7c086
+[screen-capture.webm](https://github.com/minhaaj-t/React-Assessment/assets/72432356/5d89de13-60d5-42d6-ba5f-7ab6591f78ea)
 
 
 

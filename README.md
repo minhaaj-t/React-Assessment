@@ -6,7 +6,7 @@ Welcome to my one-page web application project, showcasing the integration of Re
 -   Bootstrap Navbar for navigation
 -   React Slider component for interactive content
 -   Scroll-down React Card Component for engaging user experience
-
+ 
 Technologies Used
 -----------------
 
